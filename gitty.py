@@ -10,4 +10,4 @@ print(value)
 # Write some more code
 print("That's all folks!")
 
-# Strange things may happen here...!
+# Some more stuff was added by someone...
