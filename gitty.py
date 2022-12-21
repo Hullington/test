@@ -8,3 +8,4 @@ print(value)
 
 # TODO @Hullington
 # Write some more code
+print("That's all folks!")
